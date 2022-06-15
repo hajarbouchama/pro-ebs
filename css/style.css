@@ -142,10 +142,10 @@ nav button{
 /* header */
 header{
     position:relative;
-    top:5rem;
+    top:1rem;
     overflow:hidden;
     height:70vh;
-    margin-bottom: 5rem;
+    margin-bottom: 1rem;
 }
 .header__container{
     display:grid;
@@ -165,7 +165,8 @@ header{
 /* categories */
 .categories{
     background-color: var(--color-bg1);
-    height: 40rem;
+    height: 45rem;
+    padding-top: 10rem;
 }
 .categories h1{
     line-height: 1;
