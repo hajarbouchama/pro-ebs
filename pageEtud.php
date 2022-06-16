@@ -63,7 +63,7 @@ $serv="localhost";
 							<div class="course__info">
 							  <h4>Responsive website</h4>
 							  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque assumenda adipisci, quidem quisquam molestiae repellendus.</p>
-							  <a href="course.html" target="_blank"class="btn btn-primary">learn more</a>
+							  <a href="courses.php" target="_blank"class="btn btn-primary">learn more</a>
 							</div>
 							
 						</arcticle>
