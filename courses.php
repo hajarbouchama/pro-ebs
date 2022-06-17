@@ -2,7 +2,7 @@
 
 $user = "root";
 $pass = "";
-$db = "bd_pro";
+$db = "bd_ebs";
 $serv="localhost";
 
     $BD = mysqli_connect($serv,$user,$pass,$db); 
